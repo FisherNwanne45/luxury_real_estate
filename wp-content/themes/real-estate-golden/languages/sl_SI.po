@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Real Estate Golden\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-08-15 10:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-5.9.2\n"
+"X-Domain: real-estate-golden\n"
+
+#: includes/ocdi/configuration.php:427
+msgid "Add Car"
+msgstr ""
+
+#: includes/ocdi/configuration.php:429
+msgid "Add Property"
+msgstr ""
+
+#: includes/ocdi/configuration.php:385
+msgid "Discover your dream home with our tailored real estate solutions. From luxurious estates to cozy apartments, we make finding the perfect property effortless"
+msgstr ""
+
+#: includes/theme-help.php:30
+msgid "Got it, Next Step &rarr; and Install One Click Demo Import"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://wpdirectorykit.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://wpdirectorykit.com/themes/real-estate-golden.html"
+msgstr ""
+
+#: includes/ocdi/configuration.php:424
+msgid "Login"
+msgstr ""
+
+#: includes/ocdi/configuration.php:417
+msgid "Newsletter"
+msgstr ""
+
+#: includes/theme-help.php:20
+msgid "Open the Demo Preview"
+msgstr ""
+
+#: includes/theme-help.php:19
+msgid "Open the Install Theme"
+msgstr ""
+
+#: includes/theme-help.php:23
+msgid "Our Plugins"
+msgstr ""
+
+#: includes/theme-help.php:22
+msgid "Our Themes"
+msgstr ""
+
+#: includes/ocdi/configuration.php:415
+msgid "Popular Properties"
+msgstr ""
+
+#. Name of the theme
+msgid "Real Estate Golden"
+msgstr ""
+
+#. Description of the theme
+msgid "Real Estate Golden Directory Listing Theme for Real Estate Agency, Realtor, Broker or larger Classified Ads Directory, but also possible to use with any other Classifieds Directory Business. Theme is mostly build for Elementor so everything can be customized visually. Real Estate Agency Directory Features: Manage Listings, Manage Categories, Manage Fields, Select listings agent, Manage indoor amenities, Manage outdoor amenities, Multimedia fields integration, Full Elementor compatibility, Messaging support, Demo data import for Real Estate and Car Dealership, Open street maps support. Check demo version on https://wpdirectorykit.com/theme_preview/real-estate-golden"
+msgstr ""
+
+#: functions.php:71
+msgid "Real Estate Golden Help"
+msgstr ""
+
+#: includes/theme-help.php:24
+msgid "Support Us"
+msgstr ""
+
+#: includes/theme-help.php:12
+msgid "Thanks for Installing the Real Estate Golden Theme!"
+msgstr ""
+
+#: includes/theme-help.php:16
+msgid "This setup wizard serves as an introduction to your theme and any special options it may have."
+msgstr ""
+
+#: includes/theme-help.php:21
+msgid "Visit Our Portal"
+msgstr ""
+
+#. Author of the theme
+msgid "wpdirectorykit.com"
+msgstr ""

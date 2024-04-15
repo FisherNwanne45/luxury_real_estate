@@ -1,0 +1,195 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Real Estate Golden\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-21 13:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-5.9.2\n"
+"X-Domain: real-estate-golden"
+
+#: includes/welcome.php:33
+#, php-format
+msgid "%1$s Demo"
+msgstr ""
+
+#: includes/welcome.php:29
+#, php-format
+msgid ""
+"%1$s is now installed and ready to use. You can start either by importing "
+"the ready made demo or get started by customizing it your self."
+msgstr ""
+
+#: includes/welcome.php:39
+msgid "Activate Demo Importer Plugin"
+msgstr ""
+
+#: includes/welcome.php:74
+msgid "Activating Demo Importer Plugin"
+msgstr ""
+
+#: includes/ocdi/configuration.php:457
+msgid "Add Car"
+msgstr ""
+
+#: includes/ocdi/configuration.php:459
+msgid "Add Property"
+msgstr ""
+
+#: includes/ocdi/configuration.php:415
+msgid ""
+"Aenean sollicitudin, lorem quis bibend auctor, nisi elit consequat ipsum, "
+"necittis sem nibh id elit. Duis sed odio enim."
+msgstr ""
+
+#: includes/welcome.php:37
+msgid "Click below to install and active Themes Demo Importer Plugin."
+msgstr ""
+
+#: includes/welcome.php:28
+msgid "Congratulations!"
+msgstr ""
+
+#: includes/welcome.php:96
+msgid "Disable for current user"
+msgstr ""
+
+#: includes/welcome.php:52
+msgid "Dismiss"
+msgstr ""
+
+#: includes/welcome.php:77
+msgid "Error! Reload the page and try again."
+msgstr ""
+
+#: includes/welcome.php:80
+msgid ""
+"For best experience please install and active all recommended plugin from "
+"theme before demo content import here."
+msgstr ""
+
+#: includes/welcome.php:47
+msgid "Get Started"
+msgstr ""
+
+#: includes/welcome.php:41 includes/welcome.php:75
+msgid "Go to Demo Importer Page"
+msgstr ""
+
+#: includes/welcome.php:49
+msgid "Go to Setting Page"
+msgstr ""
+
+#: includes/theme-help.php:30
+msgid "Got it, Next Step &rarr; and Install One Click Demo Import"
+msgstr ""
+
+#: includes/welcome.php:48
+#, php-format
+msgid ""
+"Here you will find all the necessary links and information on how to use "
+"%1$s."
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://wpdirectorykit.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://wpdirectorykit.com/themes/real-estate-golden.html"
+msgstr ""
+
+#: includes/welcome.php:36
+msgid "Import Demo"
+msgstr ""
+
+#: includes/welcome.php:43
+msgid "Install Demo Importer Plugin"
+msgstr ""
+
+#: includes/welcome.php:73
+msgid "Installing Demo Importer Plugin"
+msgstr ""
+
+#: includes/ocdi/configuration.php:454
+msgid "Login"
+msgstr ""
+
+#: includes/ocdi/configuration.php:447
+msgid "Newsletter"
+msgstr ""
+
+#: includes/theme-help.php:20
+msgid "Open the Demo Preview"
+msgstr ""
+
+#: includes/theme-help.php:19
+msgid "Open the Install Theme"
+msgstr ""
+
+#: includes/theme-help.php:23
+msgid "Our Plugins"
+msgstr ""
+
+#: includes/theme-help.php:22
+msgid "Our Themes"
+msgstr ""
+
+#: includes/ocdi/configuration.php:445
+msgid "Popular Properties"
+msgstr ""
+
+#. Name of the theme
+msgid "Real Estate Golden"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Real Estate Golden Directory Listing Theme for Real Estate Agency, Realtor, "
+"Broker or larger Classified Ads Directory, but also possible to use with any "
+"other Classifieds Directory Business. Theme is mostly build for Elementor so "
+"everything can be customized visually. Real Estate Agency Directory Features:"
+" Manage Listings, Manage Categories, Manage Fields, Select listings agent, "
+"Manage indoor amenities, Manage outdoor amenities, Multimedia fields "
+"integration, Full Elementor compatibility, Messaging support, Demo data "
+"import for Real Estate and Car Dealership, Open street maps support. Check "
+"demo version on https://wpdirectorykit.com/theme_preview/real-estate-golden"
+msgstr ""
+
+#: functions.php:71
+msgid "Real Estate Golden Help"
+msgstr ""
+
+#: includes/theme-help.php:24
+msgid "Support Us"
+msgstr ""
+
+#: includes/theme-help.php:12
+msgid "Thanks for Installing the Real Estate Golden Theme!"
+msgstr ""
+
+#: includes/theme-help.php:16
+msgid ""
+"This setup wizard serves as an introduction to your theme and any special "
+"options it may have."
+msgstr ""
+
+#: includes/theme-help.php:21
+msgid "Visit Our Portal"
+msgstr ""
+
+#. Author of the theme
+msgid "wpdirectorykit.com"
+msgstr ""
+
+#: includes/welcome.php:101
+msgid "Wrong _wpnonce"
+msgstr ""
